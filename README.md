@@ -16,7 +16,7 @@ I am the Founder of **[the Commons intl.](https://commons.int.eu.org)**,
 
 > *"I strongly believe in the 'product, produce, production' idea."*
 >
-> *"I am currently formulating the **Theory of Debt-Driven Consumption Resilience**—a mathematical model quantifying how economies like India sustain headline GDP growth despite severe global trade chokepoints."*
+> *"I am currently working on the **Theory of Debt-driven particular-consumption** in economies like India that managed to keep the 'headline GDP nos.' despite Global Chokepoints of trade being held at noose." — a mathematical model is in order to study quantitative factors.*
 
 ---
 
@@ -32,7 +32,7 @@ I am particularly interested in collaborating on Statistical or Mathematical Mod
 
 ---
 
-### ⚙️ Technical & Analytical Toolkit
+### ⚙️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
