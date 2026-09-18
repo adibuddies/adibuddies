@@ -7,23 +7,22 @@ I am the Founder of **[the Commons intl.](https://commons.int.eu.org)**,
   <br><br>
 
 <div align="center">
-  <i>"Emerging voice for the <a href="https://leagueofsouth.org" target="_blank">League of South</a>."</i>
+  <i><a href="https://leagueofsouth.org" target="_blank">League of South</a>.</i>
 </div>
 
 <br>
 
 </div>
 
-> *"I strongly believe in the 'product, produce, production' idea."*
+> *I strongly believe in the 'product, produce, production' idea.*
 >
-> *"I am currently working on the **Theory of Debt-driven particular-consumption** in economies like India that managed to keep the 'headline GDP nos.' despite Global Chokepoints of trade being held at noose." — a mathematical model is in order to study quantitative factors.*
+> *I am currently working on the **Theory of Debt-driven particular-consumption** in certain economies that managed to keep the 'headline GDP nos.' despite global chokepoints of trade being held at noose.*
 
 ---
 
-### 📊 Focus Areas
+### 📊 Interests
 
-- **Interests:** Exploring global affairs, statistical modeling, economic growth mechanisms, and the causation between microeconomic behaviors and resulting macroeconomic crises (e.g., the Subprime mortgage and Korean Credit card crises) identified in late-stages.
-- **Presently:** AI (Constraint Satisfaction, Diffusion, Autoregression) & Advanced Economics.
+- Exploring global affairs, statistical modeling, economics, and the causation between microeconomic behaviors and resulting macroeconomic crises (e.g., the Subprime mortgage and Korean Credit card crises) identified in late-stages.
 
 ---
 
